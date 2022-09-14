@@ -32,7 +32,7 @@ public class TelaSobre extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("RentNow - Sobre");
+        setTitle("Sobre");
         setResizable(false);
 
         jLabel1.setText("Sistema para controle de aluguel de imóveis");
