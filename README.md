@@ -9,4 +9,4 @@
 
 
 **ITENS DO PROJETO**
-   * Todos os itens do projeto estarão disponíveis na pasta RentNow (EM BREVE)
+   * Todos os itens do projeto estarão disponíveis na pasta RentNow
